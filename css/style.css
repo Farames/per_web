@@ -2,9 +2,9 @@
 .navbar-brand img{
     width: 150px;
 }
-.navbar-collapse{
+/* .navbar-collapse{
     flex-grow: unset;
-}
+} */
 .navbar .navbar-nav .nav-link:hover{
     background-color: rgba(82, 64, 64, 0.699);
     color: black;
